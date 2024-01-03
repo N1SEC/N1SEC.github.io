@@ -1,8 +1,10 @@
 source "https://rubygems.org"
 gemspec
 
-gem "jekyll-github-metadata", ">= 2.15"
+gem "wdm"
 
-gem "jekyll-include-cache", group: :jekyll_plugins
+gem "jekyll-github-metadata" #">= 2.15"
 
-gem "html-proofer", "~> 5.0", :group => :development
+gem "jekyll-include-cache" #group: :jekyll_plugins
+
+gem "html-proofer"# "~> 5.0", :group => :development

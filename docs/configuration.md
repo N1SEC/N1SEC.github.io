@@ -2,6 +2,9 @@
 layout: default
 title: Configuration
 nav_order: 2
+has_children: false
+nav_exclude: true
+search_exclude: true
 ---
 
 # Configuration

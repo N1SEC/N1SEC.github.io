@@ -2,6 +2,9 @@
 layout: default
 title: Customization
 nav_order: 6
+has_children: false
+nav_exclude: true
+search_exclude: true
 ---
 
 # Customization

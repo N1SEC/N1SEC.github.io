@@ -2,6 +2,9 @@
 layout: default
 title: Color
 parent: Utilities
+has_children: false
+nav_exclude: true
+search_exclude: true
 ---
 
 # Color Utilities

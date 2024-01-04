@@ -2,6 +2,9 @@
 layout: default
 title: Layout
 parent: Utilities
+has_children: false
+nav_exclude: true
+search_exclude: true
 ---
 
 # Layout Utilities

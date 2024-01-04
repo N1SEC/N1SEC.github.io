@@ -2,8 +2,9 @@
 layout: default
 title: Utilities
 nav_order: 4
-has_children: true
-permalink: docs/utilities
+has_children: false
+nav_exclude: true
+search_exclude: true
 ---
 
 # Utilities

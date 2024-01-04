@@ -1,6 +1,9 @@
 ---
 title: CHANGELOG
 layout: default
+has_children: false
+nav_exclude: true
+search_exclude: true
 ---
 
 # CHANGELOG

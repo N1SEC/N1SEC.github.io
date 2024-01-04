@@ -1,6 +1,9 @@
 ---
 title: Migration and Upgrading
 layout: default
+has_children: false
+nav_exclude: true
+search_exclude: true
 ---
 
 # Migrating and Upgrading

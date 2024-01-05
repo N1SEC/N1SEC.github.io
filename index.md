@@ -19,7 +19,7 @@ permalink: /
 
 ---
 
-El sitio web se creó con el objetivo principal de poder plasmar el conocimiento adquirido, enseñando al los usuarios conceptos que aprendí e interiorice hasta ahora como forma de medir mi conocimiento en el campo del hacking ético.
+El sitio web se creó con el objetivo principal de poder plasmar el conocimiento adquirido, enseñando a los usuarios conceptos que aprendí e interiorice hasta ahora como forma de medir mi conocimiento en el campo del hacking ético.
 <br>
 
 # Contenido
@@ -41,3 +41,5 @@ La web contara con varios tipos de bloques, donde se tocaran temas como el hacki
 ---
 
 La página podra ayudarlo a conocer un poco más del mundo del hacking etico, y a como es la metodología que se sigue en las pruebas de penetración en las empresas. La página no busca dar todo masticado, por lo que va a tener que buscar por usted mismo cosas que quizas no se hayan visto en la página, puede sentirse libre de buscar en otras fuentes de información, nuestra mejor amigo siempre será Google Chrome.
+
+<br>

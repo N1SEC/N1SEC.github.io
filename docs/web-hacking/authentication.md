@@ -1,9 +1,9 @@
 ---
 layout: default
-title: SQL Injection
-nav_order: 1
+title: Authentication Vulnerability
+nav_order: 5
 parent: Web Hacking
-permalink: /web-hacking/sql-injection
+permalink: /web-hacking/authentication
 ---
 
 # En desarollo....

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: SQL Injection
-nav_order: 1
+title: Path Traversal
+nav_order: 2
 parent: Web Hacking
-permalink: /web-hacking/sql-injection
+permalink: /web-hacking/path-traversal
 ---
 
 # En desarollo....

@@ -6,6 +6,14 @@ has_children: true
 permalink: /web-hacking
 ---
 
-# En desarollo....
+# Contenido
+{: .fs-7 }
 
-La pagina se encuentra en desarollo, vuelva pronto :)
+<br>
+
+En la siguiente lista, podra ver las distintas vulnerabilidades web para la seccion **Web Hacking**.
+
+{: .note-title}
+> Consejo
+>
+> Lo recomendable seria que vaya viendo las vulnerabilidades de arriba hacia abajo, pero puede sentirse libre de verlas en cualquier orden.

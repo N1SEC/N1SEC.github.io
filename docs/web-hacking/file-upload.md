@@ -1,9 +1,9 @@
 ---
 layout: default
-title: SQL Injection
-nav_order: 1
+title: File Upload
+nav_order: 4
 parent: Web Hacking
-permalink: /web-hacking/sql-injection
+permalink: /web-hacking/file-upload
 ---
 
 # En desarollo....

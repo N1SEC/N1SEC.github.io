@@ -1,9 +1,9 @@
 ---
 layout: default
-title: SQL Injection
-nav_order: 1
+title: LFI-RFI
+nav_order: 3
 parent: Web Hacking
-permalink: /web-hacking/sql-injection
+permalink: /web-hacking/LFI-RFI
 ---
 
 # En desarollo....

@@ -6,6 +6,11 @@ parent: Web Hacking
 permalink: /web-hacking/sql-injection
 ---
 
+# En desarollo....
+
+La pagina se encuentra en desarollo, vuelva pronto :)
+
+{% comment %}
 # SQL Injection (SQLi)
 {: .fs-7 }
 {: .no_toc }
@@ -47,3 +52,4 @@ Una inyección de SQL ciega es aquella que no puede verse en la página, es deci
 # Otros
 
 Además de las inyecciones ciegas y en banda, podemos realizar otras acciones, como eludir paneles de autenticación, obtener ejecución remota de comandos(**RCE**), ver información de la infraestructura del servidor, etc.
+{% endcomment %}

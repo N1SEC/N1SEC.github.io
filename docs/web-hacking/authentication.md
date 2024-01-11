@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Authentication Vulnerability
-nav_order: 5
+nav_order: 4
 parent: Web Hacking
 permalink: /web-hacking/authentication
 ---

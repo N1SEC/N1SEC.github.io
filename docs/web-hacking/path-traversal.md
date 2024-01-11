@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Path Traversal
-nav_order: 2
+nav_order: 1
 parent: Web Hacking
 permalink: /web-hacking/path-traversal
 ---

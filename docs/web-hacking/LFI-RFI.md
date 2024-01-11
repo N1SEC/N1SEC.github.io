@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LFI-RFI
-nav_order: 3
+nav_order: 2
 parent: Web Hacking
 permalink: /web-hacking/LFI-RFI
 ---

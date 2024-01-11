@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SQL Injection
-nav_order: 1
+nav_order: 3
 parent: Web Hacking
 permalink: /web-hacking/sql-injection
 ---

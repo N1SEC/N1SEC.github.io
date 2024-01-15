@@ -4,6 +4,9 @@ title: SQL Injection
 nav_order: 3
 parent: Web Hacking
 permalink: /web-hacking/sql-injection
+has_children: false
+nav_exclude: true
+search_exclude: true
 ---
 
 # En desarollo....

@@ -60,8 +60,6 @@ Como se puede apreciar en la imagen el parámetro `pl`, recibe la ruta absoluta 
 
 ![](/assets/images/blocked_transverse_sequences_2.png)
 
-<br>
-
 ---
 
 ### Simple transverse sequence
@@ -89,8 +87,6 @@ El parámetro `filename` está intentando cargar un recurso de tipo imagen, pero
 
 ![](/assets/images/simple_case_of_transverse_sequences_2.png)
 
-<br>
-
 ---
 
 ### Nested transverse sequences
@@ -108,8 +104,6 @@ Las **secuencias transversales anidadas**, son combinaciones de secuencias trans
 En el siguiente ejemplo podemos ver una secuencia transversal anidada:
 
 ![](/assets/images/nested_transverse_sequences.png)
-
-<br>
 
 ---
 
@@ -134,8 +128,6 @@ o
 
 esto evitaría que se apliquen filtros que eviten secuencias transversales como las ya mencionadas.
 
-<br>
-
 ---
 
 ### Transverse sequences with absolute location
@@ -150,8 +142,6 @@ En ocasiones la aplicación puede que llame a un recurso del equipo indicando la
 <br>
 
 Esto sucede porque la aplicación maneja los archivos utilizando las rutas base, por lo que si indicamos estas rutas más una secuencia transversal, podremos listar archivos del servidor.
-
-<br>
 
 ---
 

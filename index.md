@@ -31,7 +31,7 @@ El contenido de la página ira variando con el paso del tiempo, se iran agregand
 
 <br>
 
-La web contara con varios tipos de bloques, donde se tocaran temas como el hacking web, redes, vulnerabilidades, etc. Todo estará separado por secciones/bloques para hacer que se vea de forma más amigable y sencilla, veremos también como montar un entorno de pruebas dentro de nuestra red local para hacer nuestros laboratorios y también tocaremos CTFs en páginas como [VulnHub](https://www.vulnhub.com/), [HachTheBox](https://www.hackthebox.com/), y [TryHackMe](https://tryhackme.com/).
+La web contara con varios tipos de bloques, donde se tocaran temas como el hacking web, redes, vulnerabilidades, etc. Todo estará separado por secciones/bloques para hacer que se vea de forma más amigable y sencilla, veremos también como montar un entorno de pruebas dentro de nuestra red local para hacer nuestros laboratorios y también tocaremos CTFs en páginas como [VulnHub](https://www.vulnhub.com/) y [TryHackMe](https://tryhackme.com/).
 
 <br>
 

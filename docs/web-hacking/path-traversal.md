@@ -155,3 +155,12 @@ En ocasiones puede haber filtros donde el servidor requiera la extensión de un 
 ![](/assets/images/null.png)
 
 <br>
+
+---
+
+#### Referencias
+{: .no_toc }
+
+<br>
+
+PortSwigger : [Path Traversal](https://portswigger.net/web-security/file-path-traversal)

@@ -104,7 +104,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "N1SEC - Mi CV":
-    - "https://github.com/N1SEC"
+    - "https://drive.google.com/file/d/1RobdDFsvzlC-WCswsgamlv16Di1Be_ER/view"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false

@@ -1,0 +1,24 @@
+---
+layout: default
+title: Hard
+nav_order: 3
+parent: HackTheBox
+grand_parent: CTFs
+permalink: /ctfs/hackthebox/hard
+---
+
+# Maquinas DIFICIL
+{: .fs-7 }
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Maquinas
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+### La pagina se encuentra en desarollo... :)
+{: .no_toc }

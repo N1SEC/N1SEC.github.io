@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Medium
-nav_order: 2
-parent: TryHackMe
-grand_parent: CTFs
-permalink: /ctfs/tryhackme/medium
+title: Prioritise
+nav_order: 1
+has_children: true
+parent: CTFs
+permalink: /ctfs/prioritise
 ---
 
 # Maquinas MEDIA

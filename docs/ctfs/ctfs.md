@@ -10,4 +10,4 @@ permalink: /ctfs
 
 <br>
 
-En esta sección encontrará writeups de ctfs de páginas como TryHackMe o VulnHub, que los subiré en formato de video por YouTube y otros escritos por la web.
+En esta sección encontrará writeups de ctfs que ire subiendo a medida que pase el tiempo, ya sea de HackTheBox, TryHackMe o VulnHub.

@@ -11,17 +11,6 @@ permalink: /ctfs/prioritise
 {: .fs-7 }
 {: .no_toc }
 
-<br>
-
-<details open markdown="block">
-  <summary>
-    Maquinas
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
 ---
 
 ## Prioritise - MEDIUM - Writeup TryHackMe

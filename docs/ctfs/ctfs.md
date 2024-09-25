@@ -1,7 +1,6 @@
 ---
 layout: default
 title: CTFs
-nav_order: 4
 has_children: true
 permalink: /ctfs
 ---

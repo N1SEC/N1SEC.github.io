@@ -2,20 +2,15 @@
 layout: default
 title: Prioritise
 nav_order: 1
-has_children: true
 parent: CTFs
 permalink: /ctfs/prioritise
 ---
 
-# Maquinas MEDIA
+# Prioritise - MEDIUM - Writeup TryHackMe
 {: .fs-7 }
 {: .no_toc }
 
 ---
-
-## Prioritise - MEDIUM - Writeup TryHackMe
-
-<br>
 
 ![](/assets/images/prioritise.png)
 

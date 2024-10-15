@@ -1,12 +1,12 @@
 ---
 layout: default
-title: LFI-RFI
+title: File Inclusion
 nav_order: 2
 parent: Web Hacking
-permalink: /web-hacking/LFI-RFI
+permalink: /web-hacking/File-Inclusion
 ---
 
-# Local File Inclusion(LFI) / Remote File Inclusion(RFI)
+# File Inclusion
 {: .fs-7 }
 {: .no_toc }
 <br>
@@ -23,7 +23,7 @@ Al contrario, en RFI, nosotros debemos pasarle un código malicioso **remotament
 
 ---
 
-# LFI / RFI exploitation
+# File Inclusion exploitation
 {: .fs-7 }
 {: .no_toc }
 <br>

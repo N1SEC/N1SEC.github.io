@@ -12,7 +12,7 @@ permalink: /ctfs/prioritise
 
 ---
 
-![](/assets/images/prioritise.png)
+![](/assets/images/prioritise/prioritise.png)
 
 <br>
 
@@ -28,7 +28,7 @@ La máquina prioritise tiene un servicio web corriendo por el puerto **80**, que
 
 <br>
 
-![](/assets/images/prioritise_pages.png)
+![](/assets/images/prioritise/prioritise_pages.png)
 
 <br>
 
@@ -36,7 +36,7 @@ Si jugamos un poco con la página vemos que podemos agregar registros indicando 
 
 <br>
 
-![](/assets/images/prioritise_url.png)
+![](/assets/images/prioritise/prioritise_url.png)
 
 <br>
 
@@ -44,7 +44,7 @@ Como puede ver el parámetro `order` de la URL ordena los registros basándose e
 
 <br>
 
-![](/assets/images/prioritise_test.png)
+![](/assets/images/prioritise/prioritise_test.png)
 
 <br>
 
@@ -52,7 +52,7 @@ En lo personal utilicé BurpSuite por comodidad, pero puede hacerlo desde la pá
 
 <br>
 
-![](/assets/images/prioritise_error.png)
+![](/assets/images/prioritise/prioritise_error.png)
 
 <br>
 
@@ -64,11 +64,11 @@ Gracias a esto, ahora podemos obtener información de la base de datos carácter
 
 <br>
 
-![](/assets/images/prioritise_tablas.png)
+![](/assets/images/prioritise/prioritise_tablas.png)
 
 <br>
 
-![](/assets/images/prioritise_longitud_de_tablas.png)
+![](/assets/images/prioritise/prioritise_longitud_de_tablas.png)
 
 <br>
 
@@ -76,7 +76,7 @@ Basándonos en esta información, lo que podríamos hacer es crear un exploit qu
 
 <br>
 
-![](/assets/images/prioritise_flag.png)
+![](/assets/images/prioritise/prioritise_flag.png)
 
 <br>
 

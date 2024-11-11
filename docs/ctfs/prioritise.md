@@ -22,7 +22,7 @@ permalink: /ctfs/prioritise
 - Blind SQL injection based on boolean values.
 - Python scripting for data dump.
 
-<br>
+---
 
 La máquina prioritise tiene un servicio web corriendo por el puerto **80**, que ofrece una especie de servicio web de "prioridades", algo así como una especie de agenda. Si accedemos a la página veremos algo como lo siguiente:
 

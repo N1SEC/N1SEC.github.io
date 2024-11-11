@@ -21,6 +21,6 @@ permalink: /ctfs/cap
 >
 - Python scripting to abuse "Insecure Direct Object Reference(IDOR)"
 - FTP Packet Analysis with Wireshark && Exposed Credentials && Credential Reuse
-- Abuse of capability (“/usr/bin/python3.8”) [PrivEsc]
+- Abuse of capability ("/usr/bin/python3.8") [PrivEsc]
 
 <br>
